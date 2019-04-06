@@ -1,0 +1,44 @@
+
+;; ----- smex-history -----
+(
+ customize-group
+ configuration-layer/create-layer
+ customize-variable
+ counsel-set-variable
+ cd
+ 5x5
+ arp
+ dbx
+ dig
+ erc
+ ert
+ eww
+ ftp
+ gdb
+ irc
+ jdb
+ man
+ mpc
+ pdb
+ pwd
+ rsh
+ sdb
+ xdb
+ calc
+ diff
+ dirs
+ ffap
+ gnus
+ grep
+ help
+ ielm
+ info
+)
+
+;; ----- smex-data -----
+(
+ (customize-group . 3)
+ (counsel-set-variable . 3)
+ (customize-variable . 1)
+ (configuration-layer/create-layer . 2)
+)

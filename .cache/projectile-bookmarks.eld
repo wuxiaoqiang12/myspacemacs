@@ -1,0 +1,1 @@
+("~/Documents/SF-zh/" "~/.spacemacs.d/" "~/.emacs.d/")

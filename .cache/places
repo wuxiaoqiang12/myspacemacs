@@ -1,0 +1,39 @@
+;;; -*- coding: utf-8 -*-
+(("/home/jon/.spacemacs.d/init.el" . 16365)
+ ("/home/jon/.emacs.d/.cache/recentf" . 906)
+ ("/home/jon/.emacs.d/.cache/layouts/persp-auto-save" . 2391)
+ ("/home/jon/Documents/SF-zh/"
+  (dired-filename . "/home/jon/Documents/SF-zh/plf-current"))
+ ("/home/jon/Documents/SF-zh/plf-current/"
+  (dired-filename . "/home/jon/Documents/SF-zh/plf-current/Hoare.html"))
+ ("/home/jon/Documents/SF-zh/plf-current/Hoare.v" . 5882)
+ ("/home/jon/.spacemacs.d/layers/xiaoqiangwu/packages.el" . 2055)
+ ("/home/jon/.spacemacs.d/custom.el" . 2134)
+ ("/home/jon/Documents/"
+  (dired-filename . "/home/jon/Documents/SF-zh"))
+ ("/home/jon/.spacemacs.d/"
+  (dired-filename . "/home/jon/.spacemacs.d/layers"))
+ ("/home/jon/.spacemacs.d/layers/"
+  (dired-filename . "/home/jon/.spacemacs.d/layers/xiaoqiangwu"))
+ ("/home/jon/.spacemacs.d/layers/xiaoqiangwu/README.org" . 1063)
+ ("/home/jon/.spacemacs.d/layers/xiaoqiangwu/"
+  (dired-filename . "/home/jon/.spacemacs.d/layers/xiaoqiangwu/packages.el"))
+ ("/home/jon/.emacs.d/layers/+emacs/better-defaults/packages.el" . 494)
+ ("/home/jon/.emacs.d/layers/+emacs/better-defaults/"
+  (dired-filename . "/home/jon/.emacs.d/layers/+emacs/better-defaults/config.el"))
+ ("/home/jon/.emacs.d/layers/+emacs/better-defaults/config.el" . 641)
+ ("/home/jon/.emacs.d/layers/+completion/ivy/" . 440)
+ ("/home/jon/.emacs.d/layers/+completion/ivy/packages.el" . 489)
+ ("/home/jon/.emacs.d/layers/+source-control/git/packages.el" . 756)
+ ("/home/jon/.emacs.d/layers/+source-control/git/"
+  (dired-filename . "/home/jon/.emacs.d/layers/+source-control/git/README.org"))
+ ("/home/jon/.emacs.d/layers/+source-control/git/README.org" . 4902)
+ ("/home/jon/.emacs.d.bak/lisp/"
+  (dired-filename . "/home/jon/.emacs.d.bak/lisp/custom.el"))
+ ("/home/"
+  (dired-filename . "/home/jon"))
+ ("/home/jon/.emacs.d.bak/"
+  (dired-filename . "/home/jon/.emacs.d.bak/lisp"))
+ ("/home/jon/"
+  (dired-filename . "/home/jon/.spacemacs.d"))
+ ("/home/jon/.emacs.d/elpa/org-plus-contrib-20190402/org-loaddefs.el" . 138790))
